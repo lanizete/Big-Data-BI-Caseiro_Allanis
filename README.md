@@ -1,4 +1,4 @@
-# PowerBI Caseiro — Allanis Lima 🎓💚
+# PowerBI Caseiro — 
 
 Projeto educacional: *Power BI caseiro em Python* — dashboard interativo para explorar uma grande nuvem de palavras
 (dataset sintético). Ideal para apresentações, seminários e para inspirar quem pensa em entrar na **FATEC**.
@@ -12,7 +12,7 @@ Projeto educacional: *Power BI caseiro em Python* — dashboard interativo para 
 - `.gitignore`, `LICENSE`.
 
 ---
-## Motivação
+## Objetivo
 Mostrar que **dados + Python + criatividade** viram um dashboard interativo: ótimos argumentos para escolher um curso técnico/tecnológico como a FATEC.
 Este projeto foi pensado para jovens que querem ver resultados rápidos e aplicar lógica, estatística e visualização com ferramentas reais.
 
